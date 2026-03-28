@@ -1,0 +1,19 @@
+<svg width="100%" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red accent slash behind ГАЛА -->
+  <polygon points="52,48 248,48 220,168 24,168" fill="#E8131A"/>
+
+  <!-- ГАЛА — white on red -->
+  <text x="46" y="148" font-size="124" fill="#FFFFFF"
+    style="font-family:'Barlow Condensed','Arial Narrow',Arial,sans-serif;font-size:124px;font-weight:900;">ГАЛА</text>
+
+  <!-- СПОРТ — white (was black, inverted for dark bg) -->
+  <text x="96" y="248" font-size="124" fill="#FFFFFF"
+    style="font-family:'Barlow Condensed','Arial Narrow',Arial,sans-serif;font-size:124px;font-weight:900;">СПОРТ</text>
+
+  <!-- Thin red rule under СПОРТ -->
+  <rect x="96" y="258" width="538" height="5" fill="#E8131A"/>
+
+  <!-- ПАРК ПОБЕДЫ — white -->
+  <text x="98" y="298" font-size="28" fill="#FFFFFF"
+    style="font-family:'Barlow Condensed','Arial Narrow',Arial,sans-serif;font-size:28px;font-weight:700;">ПАРК ПОБЕДЫ</text>
+</svg>
